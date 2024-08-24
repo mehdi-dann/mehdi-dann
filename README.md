@@ -8,6 +8,16 @@
 
 I would love to learn to ride a horse someday.
 
+
+| Rank | Languages |
+|-----:|---------------|
+|     1|      Farsi     |
+|     2|      English    |
+|     4|      Python    |
+|     4|      Java     |
+
+
+
 <!-- idk why the pictures are not showing. -->
 &nbsp;
 <picture>
